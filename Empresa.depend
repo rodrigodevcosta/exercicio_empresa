@@ -1,0 +1,212 @@
+# depslib dependency file v1.0
+1480463706 source:c:\users\rodrigocosta\desktop\empresa\main.cpp
+	<iostream>
+	<InterfacePrincipal.h>
+
+1480463706 c:\users\rodrigocosta\desktop\empresa\include\interfaceprincipal.h
+	<InterfaceCadastroClientes.h>
+
+1480463743 c:\users\rodrigocosta\desktop\empresa\include\interfacecadastroclientes.h
+	<ListaClientes.h>
+	<Fornecedor.h>
+
+1480465110 c:\users\rodrigocosta\desktop\empresa\include\listaclientes.h
+	<NoListaClientes.h>
+	<string>
+
+1480451981 c:\users\rodrigocosta\desktop\empresa\include\nolistaclientes.h
+	<Clientes.h>
+
+1480461966 c:\users\rodrigocosta\desktop\empresa\include\clientes.h
+	<DadosPessoais.h>
+	<string>
+
+1480464198 source:c:\users\rodrigocosta\desktop\empresa\src\clientes.cpp
+	"Clientes.h"
+
+1480464240 source:c:\users\rodrigocosta\desktop\empresa\src\interfacecadastroclientes.cpp
+	"InterfaceCadastroClientes.h"
+	<iostream>
+	<stdlib.h>
+
+1480462108 source:c:\users\rodrigocosta\desktop\empresa\src\listaclientes.cpp
+	"ListaClientes.h"
+	<Clientes.h>
+
+1480451981 source:c:\users\rodrigocosta\desktop\empresa\src\nolistaclientes.cpp
+	"NoListaClientes.h"
+
+1480463743 source:c:\users\rodrigocosta\desktop\empresa\src\interfaceprincipal.cpp
+	"InterfacePrincipal.h"
+	<iostream>
+	<stdlib.h>
+
+1480454207 source:c:\users\rodrigocosta\desktop\empresa\src\fornecedor.cpp
+	"Fornecedor.h"
+
+1480462182 c:\users\rodrigocosta\desktop\empresa\include\fornecedor.h
+	<DadosPessoais.h>
+	<string>
+
+1480454596 source:c:\users\rodrigocosta\desktop\empresa\src\clientefisico.cpp
+	"ClienteFisico.h"
+
+1480454578 c:\users\rodrigocosta\desktop\empresa\include\clientefisico.h
+	<Clientes.h>
+	<string>
+
+1480462023 c:\users\rodrigocosta\desktop\empresa\include\dadospessoais.h
+	<string>
+
+1480461966 source:c:\users\rodrigocosta\desktop\empresa\src\dadospessoais.cpp
+	"DadosPessoais.h"
+
+1480463706 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\main.cpp
+	<iostream>
+	<InterfacePrincipal.h>
+
+1481074399 e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\include\interfaceprincipal.h
+	<InterfaceCadastroClientes.h>
+	<InterfaceCadastroFornecedores.h>
+	<InterfaceCadastroContasPagar.h>
+	<InterfaceCadastroContasReceber.h>
+
+1481074399 e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\include\interfacecadastroclientes.h
+	<ListaClientes.h>
+	<Fornecedor.h>
+
+1481074399 e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\include\listaclientes.h
+	<NoListaClientes.h>
+	<string>
+
+1481074399 e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\include\nolistaclientes.h
+	<Clientes.h>
+
+1481074399 e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\include\clientes.h
+	<DadosPessoais.h>
+	<string>
+
+1481074399 e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\include\dadospessoais.h
+	<string>
+
+1481074399 e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\include\fornecedor.h
+	<DadosPessoais.h>
+	<string>
+
+1481074973 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\src\clientes.cpp
+	"Clientes.h"
+
+1481164385 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\src\dadospessoais.cpp
+	"DadosPessoais.h"
+
+1481076532 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\src\fornecedor.cpp
+	"Fornecedor.h"
+
+1481164782 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\src\interfacecadastroclientes.cpp
+	"InterfaceCadastroClientes.h"
+	<iostream>
+	<stdlib.h>
+
+1481163327 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\src\interfaceprincipal.cpp
+	"InterfacePrincipal.h"
+	<iostream>
+	<stdlib.h>
+
+1480462108 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\src\listaclientes.cpp
+	"ListaClientes.h"
+	<Clientes.h>
+
+1480451981 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\src\nolistaclientes.cpp
+	"NoListaClientes.h"
+
+1481074399 e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\include\interfacecadastrofornecedores.h
+	<ListaFornecedores.h>
+	<Fornecedor.h>
+
+1480556391 e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\include\listafornecedores.h
+	<NoListaFornecedor.h>
+	<string>
+
+1480543361 e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\include\nolistafornecedor.h
+	<Fornecedor.h>
+
+1481075247 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\src\dadoscontas.cpp
+	"DadosContas.h"
+
+1481074399 e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\include\dadoscontas.h
+	<string>
+
+1481164782 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\src\interfacecadastrofornecedores.cpp
+	"InterfaceCadastroFornecedores.h"
+	<iostream>
+	<stdlib.h>
+
+1480556470 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\src\listafornecedores.cpp
+	"ListaFornecedores.h"
+	<Clientes.h>
+
+1480543360 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\src\nolistafornecedor.cpp
+	"NoListaFornecedor.h"
+
+1480713266 e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\include\interfacecadastrocontaspagar.h
+	<ListaContasPagar.h>
+	<ContasPagar.h>
+
+1481074399 e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\include\listacontaspagar.h
+	<NoListaContasPagar.h>
+	<string>
+
+1480559332 e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\include\nolistacontaspagar.h
+	<ContasPagar.h>
+
+1481074399 e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\include\contaspagar.h
+	<DadosContas.h>
+	<string>
+
+1480817943 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\src\contaspagar.cpp
+	"ContasPagar.h"
+
+1481163327 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\src\interfacecadastrocontaspagar.cpp
+	"InterfaceCadastroContasPagar.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1480736610 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\src\listacontaspagar.cpp
+	"ListaContasPagar.h"
+	<ContasPagar.h>
+
+1480559332 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\src\nolistacontaspagar.cpp
+	"NoListaContasPagar.h"
+
+1480817945 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\src\contasreceber.cpp
+	"ContasReceber.h"
+
+1481074399 e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\include\contasreceber.h
+	<DadosContas.h>
+	<string>
+
+1480810406 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\src\nolistacontasreceber.cpp
+	"NoListaContasReceber.h"
+
+1480810462 e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\include\nolistacontasreceber.h
+	<ContasReceber.h>
+
+1480817352 e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\include\interfacecadastrocontasreceber.h
+	<ListaContasReceber.h>
+	<ContasReceber.h>
+
+1480815544 e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\include\listacontasreceber.h
+	<NoListaContasReceber.h>
+	<string>
+
+1481163327 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\src\interfacecadastrocontasreceber.cpp
+	"InterfaceCadastroContasReceber.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1480817380 source:e:\faculdade e docs\faeterj_cpti\segundo periodo\poo\programas_2016.2\empresa\src\listacontasreceber.cpp
+	"ListaContasReceber.h"
+	<ContasReceber.h>
+
